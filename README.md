@@ -12,11 +12,11 @@ This folder contains everything needed to implement controller rumble/vibration 
 
 These `.as.md` files contain the exact code changes needed for each SSF2 file:
 
-- **`Gamepad.as.as.md`** - Core rumble implementation (most important file)
-- **`SaveData.as.as.md`** - Settings persistence
-- **`ControlsMenu.as.as.md`** - Menu toggle functionality
-- **`TitleMenu.as.as.md`** - Title screen feedback
-- **`Character.as.as.md`** - Gameplay rumble triggers throughout character actions
+- **`Gamepad.as.md`** - Core rumble implementation (most important file)
+- **`SaveData.as.md`** - Settings persistence
+- **`ControlsMenu.as.md`** - Menu toggle functionality
+- **`TitleMenu.as.md`** - Title screen feedback
+- **`Character.as.md`** - Gameplay rumble triggers throughout character actions
 
 ### ANE Implementation
 
