@@ -13,7 +13,7 @@ Build two binaries from `src-native`:
 - `win-x86/RumbleANE.dll` (32-bit)
 - `win-x86-64/RumbleANE64.dll` (64-bit)
 
-Link `XInput.lib` (Windows SDK). For DualSense HID, use Win32 HID APIs (`SetupAPI.lib`) or integrate `hidapi`.
+Link `XInput.lib` (Windows SDK).
 
 ## Package ANE
 
