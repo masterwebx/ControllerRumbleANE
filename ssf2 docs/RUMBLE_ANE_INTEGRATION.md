@@ -593,4 +593,4 @@ ane/rumble/
 ```
 
 This implementation provides robust controller vibration support for SSF2, with direct native performance for Xbox controllers.</content>
-<parameter name="filePath">c:\Users\glwex\Documents\GitHub\ssf2-idk-140x-original\src\Super Smash Flash 2 Beta v1.4.0.1\RUMBLE_ANE_INTEGRATION.md
+<parameter name="filePath">c:\Users\masterwebx\Documents\GitHub\ssf2-idk-140x-original\src\Super Smash Flash 2 Beta v1.4.0.1\RUMBLE_ANE_INTEGRATION.md
